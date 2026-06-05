@@ -6,7 +6,7 @@ Diese Seite enthält die gültigen Versionen der wichtigsten Dokumente.
 
 ---
 
-## 📄 Dokumente
+## Dokumente
 
 - [Leitbild](leitbild.md)
 - [Statuten](statuten.md)
