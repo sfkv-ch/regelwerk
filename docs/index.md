@@ -1,1 +1,20 @@
+# SFKV Regelwerk
 
+Willkommen im offiziellen Regelwerk des SFKV.
+
+Diese Seite enthält die gültigen Versionen der wichtigsten Dokumente.
+
+---
+
+## 📄 Dokumente
+
+- [Leitbild](leitbild/leitbild.md)
+- [Statuten](statuten/statuten.md)
+- [Sportreglement](sportreglement/sportreglement.md)
+
+---
+
+## ℹ️ Hinweis
+
+Dieses Regelwerk ist die offizielle veröffentlichte Version.  
+Änderungen werden durch den Zentralvorstand freigegeben.
