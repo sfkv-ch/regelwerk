@@ -8,9 +8,9 @@ Diese Seite enthält die gültigen Versionen der wichtigsten Dokumente.
 
 ## 📄 Dokumente
 
-- [Leitbild](leitbild/leitbild.md)
-- [Statuten](statuten/statuten.md)
-- [Sportreglement](sportreglement/sportreglement.md)
+- [Leitbild](leitbild.md)
+- [Statuten](statuten.md)
+- [Sportreglement](sportreglement.md)
 
 ---
 
