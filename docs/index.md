@@ -1,5 +1,3 @@
-# SFKV Regelwerk
-
 Willkommen im offiziellen Regelwerk des SFKV.
 
 Diese Plattform enthält die gültigen und aktuellen Dokumente des Verbandes.
