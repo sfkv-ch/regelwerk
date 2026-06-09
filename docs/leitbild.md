@@ -2,9 +2,6 @@
 title: Leitbild der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Leitbild
 description: Leitbild und Grundsätze der Schweizerischen Freien Keglervereinigung
-status: entwurf
-version: 2026-01
-last_updated: 2026-06-09
 ---
 
 # Leitbild der Schweizerischen Freien Keglervereinigung (SFKV)
